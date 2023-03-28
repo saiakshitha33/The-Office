@@ -1,0 +1,6 @@
+.present {
+  background-color: greenyellow !important;
+}
+.absent {
+  background-color: tomato !important;
+}

@@ -1,0 +1,12 @@
+.highlight {
+  font-weight: 600;
+}
+.content {
+  display: inline-block !important;
+  font-size: 1rem !important;
+}
+
+.user-card-img{
+  height:275px;
+  object-fit: cover;
+}
